@@ -1,0 +1,6 @@
+{
+  "name": "Aura Aesthetic & Dental Clinic",
+  "description": "Painless dental treatments and aesthetic smile makeovers in Anna Nagar, Chennai. Experienced IDA & NABH accredited dental specialists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
